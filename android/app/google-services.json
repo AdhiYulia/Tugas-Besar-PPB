@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670623880828",
+    "project_id": "database-app-50583",
+    "storage_bucket": "database-app-50583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670623880828:android:186948c533f7ad90ab5bf9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_absensi_pt_bulog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YEFSD9wWVMBu2a_1Km81iTTTFPR2ZqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
